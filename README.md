@@ -1,6 +1,5 @@
 # 그누보드 리스테린 광고페이지 제작노트
 
-### http://irrepp176.cafe24.com/coolmint
 
 
 ### - 기본정보
